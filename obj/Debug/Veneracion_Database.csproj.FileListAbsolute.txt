@@ -1,0 +1,9 @@
+C:\Users\ZeroR\source\repos\Veneracion_Database\bin\Debug\Veneracion_Database.exe.config
+C:\Users\ZeroR\source\repos\Veneracion_Database\bin\Debug\Veneracion_Database.exe
+C:\Users\ZeroR\source\repos\Veneracion_Database\bin\Debug\Veneracion_Database.pdb
+C:\Users\ZeroR\source\repos\Veneracion_Database\obj\Debug\Veneracion_Database.csprojAssemblyReference.cache
+C:\Users\ZeroR\source\repos\Veneracion_Database\obj\Debug\Veneracion_Database.csproj.CoreCompileInputs.cache
+C:\Users\ZeroR\source\repos\Veneracion_Database\obj\Debug\Veneracion_Database.exe
+C:\Users\ZeroR\source\repos\Veneracion_Database\obj\Debug\Veneracion_Database.pdb
+C:\Users\ZeroR\source\repos\Veneracion_Database\obj\Debug\Veneracion_Database.Resource.resources
+C:\Users\ZeroR\source\repos\Veneracion_Database\obj\Debug\Veneracion_Database.csproj.GenerateResource.cache
