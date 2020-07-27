@@ -33,7 +33,7 @@ namespace ProcessNorthwindDB_Tyrone
         public void TotalPrinter(SqlDataReader dr)
         {
             string strMonthlySalary = "Monthly Salary";
-            string strSalesAmt = "Sales Amt";
+            string strSalesAmt = "Sales Amount";
             string strCarAllowance = "Car Allowance";
             string strBonusAmount = "Bonus Amount";
             string strTotalCompensation = "Total Compensation";
